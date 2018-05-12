@@ -1,0 +1,32 @@
+_repo: John-Quincy-AdamsAmerican-Statesmen-Series_20183
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morse, John Torrey
+    alias: Morse, John T. (John Torrey)
+    birthdate: 1840
+    deathdate: 1937
+    gutenberg_agent_id: '4592'
+    url: http://www.gutenberg.org/2009/agents/4592
+description: ''
+gutenberg_issued: '2006-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20183'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Adams, John Quincy, 1767-1848'
+- !lcsh 'United States -- Politics and government -- 1815-1861'
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'United States -- Foreign relations -- 1783-1865'
+title: 'John Quincy Adams
+
+  American Statesmen Series'
+url: http://www.gutenberg.org/ebooks/20183
